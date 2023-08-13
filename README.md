@@ -1,13 +1,16 @@
 # Resume-Classification
 This the Code repo for Resume Classification
-# NOTE: Used LFS to upload the model file so please install LFS before cloning the repo
+### NOTE: Used LFS to upload the model file so please install LFS before cloning the repo
 # Install LFS
+### If you face any trouble regarding the model folder you can download from the below link:
+https://huggingface.co/Kowshik24/bert-base-cased-resume-classification/tree/main
+Download all the files from this above liks and put them into the saved_model_bert_resume forlder
 ```
 git lfs install
 ```
 # Clone the Repo
 ```
-git clone 
+git clone https://github.com/kowshik24/Resume-Classification
 ```
 # First Step an Virtual Environment
 ```
